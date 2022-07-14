@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/ThingDef[defName="DeathAcidifier"]/description</xpath>
+		<value>
+			<description>>A chest implant for preventing enemy use of captured equipment. Upon the user's death, it releases powerful chemicals that dissolve gear in contact with the user's body. And the user's body. It doesn't damage others.</description>
+		</value>
+	</Operation>
+	
+</Patch>
