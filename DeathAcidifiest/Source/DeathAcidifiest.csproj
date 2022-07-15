@@ -47,7 +47,7 @@
   <ItemGroup>
     <Compile Include="DeathAcidifiest.cs" />
     <Compile Include="DeathAcidifiest_PostInit.cs" />
-    <Compile Include="HarmonyPatches\HediffComp_DissolveGearOnDeath_Notify_PawnDied_Patches.cs" />
+    <Compile Include="HarmonyPatches\DissolveGearOnDeath_Patches.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
